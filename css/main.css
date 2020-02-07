@@ -266,11 +266,10 @@ h6, .h6 {
 .hero__title,
 .hero__subtitle,
 .cta--hero {
-  background-color: #666699;
-  background: var(--color-ternary);
   position: relative;
   z-index: 1;
-  padding: 1em;
+  margin: 0 1rem;
+  padding: 1em 0;
 }
 .hero__title {
   font-family: 'Proxima Nova Bold', Helvetica, Arial, sans-serif;
@@ -293,10 +292,8 @@ h6, .h6 {
   color: #fff;
   color: var(--color-white);
   font-size: 1.2rem;
-  background-color: #666699;
-  background: var(--color-ternary);
-  margin: 0 3rem;
-  padding: .5em;
+  margin: 0 1rem;
+  padding: .5em 0;
 }
 
 /*
